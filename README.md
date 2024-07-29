@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋! My name is Gipsy and I'm a Web Developer from other Universe.</h2>
-
 #### VPN Error Case, No Code Changes.
+<h2 align="center">Hi 👋! My name is Gipsy and I'm a Web Developer from other Universe.</h2>
+#### VPN Error Case, Can't code right now.
 
 ###
 
@@ -45,7 +45,7 @@
 ###
 
 <div align="left">
-  <a href="https://discord.com/parley_ygn" target="_blank">
+  <a href="https://discord.com/channels/parley_ygn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/aungthiwin/" target="_blank">
